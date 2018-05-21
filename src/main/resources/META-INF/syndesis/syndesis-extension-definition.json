@@ -1,9 +1,10 @@
 {
   "tags" : [ "experimental", "feature" ],
+  "name" : "Sample Damage Reporter Extension",
   "actions" : [ {
     "actionType": "step",
     "id": "sample-damage-reporter-extension",
-    "name": "Sample Damage Reporter Extension",
+    "name": "Damage Reporter",
     "description": "Generates contact list for damaged items",
     "descriptor": {
       "kind": "ENDPOINT",
