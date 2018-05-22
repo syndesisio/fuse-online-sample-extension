@@ -16,10 +16,12 @@ Prepared jar can be consumed from [releases](https://github.com/syndesisio/fuse-
 
 Alternatively it can be also build from master with corresponding **Fuse Online GA** Maven version.
 
+Latest version: `1.3.10.fuse-000001-redhat-1`
+
 Version can be obtained from Support page `https://<Fuse Online URL>/support`.
 
 ```
-./mvnw -s configuration/settings.xml clean package -Dsyndesis.version=<Fuse Online version>
+./mvnw -s configuration/settings.xml clean package
 ```
 
 
