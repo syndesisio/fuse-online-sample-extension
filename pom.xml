@@ -18,7 +18,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.syndesis.example</groupId>
   <artifactId>sample-damage-reporter-extension</artifactId>
-  <version>1.3.12</version>
+  <version>1.4.8</version>
   <name>Damage Reporter Extension</name>
   <description>Syndesis Extension to report contact list for damaged good</description>
   <packaging>jar</packaging>
@@ -33,7 +33,7 @@
     <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
 
     <!-- dependencies -->
-    <syndesis.version>1.3.12.fuse-000001-redhat-2</syndesis.version>
+    <syndesis.version>1.4.8.fuse-710001-redhat-00001</syndesis.version>
   </properties>
 
   <dependencyManagement>
